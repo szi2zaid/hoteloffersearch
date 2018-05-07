@@ -27,8 +27,7 @@
 			<tr>
 				<td class="label">
 				
-				<h2><a href="hotelOffer.html" class="submitbtn">Find Hotel Offers
-						Offers</a></td></h2>
+				<h2><a href="hotelOffer.html" class="submitbtn">Find Hotel Offers</a></td></h2>
 			</tr>
 		</table>
 
