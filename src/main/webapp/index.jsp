@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
@@ -19,7 +19,23 @@
 </head>
 
 <body>
-	<h2>Hotels Offers Finder</h2>
-	<a href="hotelOffer.html">Search Offers</a>
+	<h2>Hotel Offers Finder</h2>
+	<section id="container" align="center">
+	<div id="wrapping" class="clearfix" align="center">
+		<section id="aligned">
+		<table style="width: 100%; align-content: center;">
+			<tr>
+				<td class="label">
+				
+				<h2><a href="hotelOffer.html" class="submitbtn">Find Hotel Offers
+						Offers</a></td></h2>
+			</tr>
+		</table>
+
+
+		</section>
+	</div>
+	</section>
+
 </body>
 </html>
